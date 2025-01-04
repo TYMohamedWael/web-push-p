@@ -1,5 +1,5 @@
 {
-  "name": "minishlink/web-push",
+  "name": "tymohamedwael/web-push",
   "type": "library",
   "description": "Web Push library for PHP",
   "keywords": [
@@ -9,13 +9,18 @@
     "WebPush",
     "Push API"
   ],
-  "homepage": "https://github.com/TYMohamedWael/web-push-p",
+  "homepage": "https://github.com/TYMohamedWael/web-push",
   "license": "MIT",
   "authors": [
     {
       "name": "Louis Lagrange",
       "email": "lagrange.louis@gmail.com",
       "homepage": "https://github.com/Minishlink"
+    },
+    {
+      "name": "Mohamed Wael",
+      "email": "your-email@example.com",
+      "homepage": "https://github.com/TYMohamedWael"
     }
   ],
   "scripts": {
